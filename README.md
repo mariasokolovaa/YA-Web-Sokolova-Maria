@@ -8,5 +8,5 @@
 
 
 
-Ссылка: https://mariasokolovaa.github.io/first_project/](https://mariasokolovaa.github.io/YA-Web-Sokolova-Maria/
+Ссылка: https://mariasokolovaa.github.io/YA-Web-Sokolova-Maria/](https://mariasokolovaa.github.io/YA-Web-Sokolova-Maria/)
 
