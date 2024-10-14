@@ -4,7 +4,9 @@
 Проект "Начать учиться"
 
 
-Автор: Соколова Мария
+Автор: Соколова Мария ИД22-1
 
 
-Ссылка: https://mariasokolovaa.github.io/first_project/
+
+Ссылка: https://mariasokolovaa.github.io/first_project/](https://mariasokolovaa.github.io/YA-Web-Sokolova-Maria/
+
